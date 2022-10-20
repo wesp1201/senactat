@@ -1,0 +1,13 @@
+terceira etapa: intalar software(linux)
+	                microsoft- ,EXE OU MSI 
+					----------------------
+					LINUX MINT:15- , DEB
+					
+					Google Chrome- 64bits , deb 
+					opera LINUX
+					
+				    Gdebi> dependencias
+					central de aplicativos
+					terminal - apt
+					
+				    sudo apt install git vim psensor
